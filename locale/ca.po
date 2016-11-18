@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:bank.account.number:"
+msgid "Invalid Spanish Cuenta Corriente \"%s\"."
+msgstr "Compte corrent espanyol invàlid: \"%s\"."
+
+msgctxt "selection:bank.account.number,type:"
+msgid "Spanish Cuenta Corriente"
+msgstr "Compte corrent espanyol"
